@@ -1,0 +1,5 @@
+*.json
+*.jpg
+*.txt
+.idea
+__pycache__
